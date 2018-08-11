@@ -9,3 +9,27 @@ def contain_a(array)
     element.include? "a"
   end
 end 
+
+def first_wa
+  
+end 
+
+def remove_non_strings
+  
+end
+
+def count_elements
+  
+end
+
+def merge_data
+  
+end
+
+def find_cool
+  
+end
+
+def organize_schools(array)
+  array.sort
+end 
